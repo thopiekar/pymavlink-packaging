@@ -1,0 +1,3 @@
+/usr/lib/python3.*/dist-packages/pymavlink/
+/usr/lib/python3.*/dist-packages/mavnative.*.so
+/usr/lib/python3.8/dist-packages/pymavlink-*.egg-info/*
