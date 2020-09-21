@@ -1,5 +1,5 @@
 Source: pymavlink
-Section: python
+Section: electronics
 Priority: optional
 Maintainer: Thomas Karl Pietrowski <thopiekar@unknown>
 Build-Depends:
@@ -27,6 +27,7 @@ Description: Pymavlink
 
 Package: python3-pymavlink
 Architecture: all
+Section: python
 Depends:
  ${python3:Depends},
  ${misc:Depends},
@@ -40,6 +41,7 @@ Description: Pymavlink (Python 3)
 
 Package: python3-mavnative
 Architecture: any
+Section: python
 Depends:
  ${python3:Depends},
  ${shlibs:Depends},
